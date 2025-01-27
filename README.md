@@ -1,14 +1,22 @@
-# DIO - Trilha .NET - Fundamentos
-www.dio.me
+# Desafio .NET DIO
+Desafio proposto pela DIO resolvido.
 
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
+Usar conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
+
+## Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="C#" height="50" width="40" src="https://github.com/user-attachments/assets/c2146a3d-f568-4ae4-9697-74b443714f07">
+  <img align="center" alt="VSCode" height="50" width="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000">
+
+</div>
 
 ## Contexto
-Você foi contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
+Contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
 
 ## Proposta
-Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
+Construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
+
 ![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
@@ -34,5 +42,4 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 4. Encerrar
 
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
